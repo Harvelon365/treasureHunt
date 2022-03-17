@@ -9,5 +9,6 @@
 <body>
     <h1>This is the home page</h1>
     <h3>There is not much here as this is just the root page</h3>
+    <p><?php include('questions.txt'); ?></p>
 </body>
 </html>
