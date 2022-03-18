@@ -1,9 +1,9 @@
-#main{
+.main{
     font-family: "Roboto", sans-serif;
     text-align: center;
 }
 
-#clue{
+.clue{
     border: 5px solid purple;
     width: 50%;
     padding: 10px;
